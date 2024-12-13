@@ -1,0 +1,15 @@
+streamlit
+streamlit-option-menu
+pandas
+numpy
+time
+tensorflow
+PIL
+scikit-learn
+xgboost
+pywt
+matplotlib
+seaborn
+mne
+keras-tuner
+scipy
